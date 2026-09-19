@@ -1,0 +1,39 @@
+ body {
+     background-color:#0F172A;   
+ }
+h3 {
+    color:#6296DE;
+}
+p {
+    color:#9285DA;
+}
+.center{
+        display:flex;
+        justify-content:center;
+        color:#3B67CF;
+}
+ 
+       img {
+    width:300px;
+    height:300px;
+}
+.gold {
+    color:#5B66C4;
+}
+.summer {
+    color:#C4C129;
+}
+.isu {
+    color:white;
+}
+h2 {
+      display:flex;
+    justify-content:center;
+    color:#3B67CF;
+}
+img {
+    float: left;
+}
+.www {
+    float: right;
+}
